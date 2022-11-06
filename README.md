@@ -1,12 +1,21 @@
-# Subjects in the 1st semester
-1.	Э Алгоритмы и структуры данных
-2.	Э Дискретная математика
-3.	Э Линейная алгебра
-4.	Э Математический анализ
-5.	Э Основый программирование
-6.	= Инструментальные средства разработки ПО
-Chú thích
-Э Экзамен
-$ Дифференцированный зачет
-= Зачет
-|> Модуль дисциплин или групп по выбору
+# ИТиП ИТМО
+
+This is for you <3
+
+## Subjects in the 1st semester
+
+ - Э  [Алгоритмы и структуры данных](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Э [Дискретная математика](https://github.com/matiassingers/awesome-readme)
+ - Э [Линейная алгебра](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - Э [Математический анализ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- Э [Основый программирование](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- = [Инструментальные средства разработки ПО](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- = [Иностранный язык](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## Chú thích
+- Э Экзамен
+- $ Дифференцированный зачет
+- = Зачет
+- |> Модуль дисциплин или групп по выбору
+
+
