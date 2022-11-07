@@ -4,7 +4,7 @@ This is for you <3
 
 ## Subjects in the 1st semester
 
- - Э  [Алгоритмы и структуры данных](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Э  [Алгоритмы и структуры данных](https://github.com/Hangly1225/ITMO/blob/main/readme.md)
  - Э [Дискретная математика](https://github.com/matiassingers/awesome-readme)
  - Э [Линейная алгебра](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - Э [Математический анализ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
